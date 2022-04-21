@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/upJiang/rollup-study#readme",
   "dependencies": {
+    "@rollup/plugin-commonjs": "^21.1.0",
+    "@rollup/plugin-node-resolve": "^13.2.1",
+    "lodash": "^4.17.21",
     "rollup": "^2.70.2"
   }
 }
